@@ -1,0 +1,7 @@
+dataset_path: C:/Users/hp/music/face_recognition_project/face_recognition_in_jupyter/Datasset/Augmented
+output_dir: C:/Users/hp/music/face_recognition_project/face_recognition_in_jupyter/
+image_size: (224, 224)
+batch_size: 32
+epochs: 30
+test_size: 0.2
+random_state: 42
