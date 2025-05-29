@@ -1,0 +1,41 @@
+
+---
+
+## 🛡️ `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Model files
+*.h5
+*.npy
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Backup
+*.bak
