@@ -45,13 +45,15 @@ Install them using:
 
 ```bash
 pip install -r requirements.txt
-##🚀 How to Run
+
+## 🚀 How to Run  
+
 🔧 1. Train Your Model (Optional)
 If you want to train your own model on your dataset:
 python train_model.py
 Ensure your dataset is organized as:
-Datasset/
-├── Person1/
+Datasset/                                                                                   
+├── Person1/                                                                   
 │   ├── image1.jpg
 │   ├── image2.jpg
 ├── Person2/
@@ -61,7 +63,7 @@ Datasset/
 
 python main.py
 
-🖼️ GUI Features
+ 🖼️ GUI Features
 
 - Button	Function
 - Start Camera	Starts webcam feed
@@ -70,20 +72,20 @@ python main.py
 - Capture & Recognize	Captures current frame and predicts
 - Upload Image	Load and recognize a saved image
 - Confidence Threshold	Set prediction certainty (slider)
+
 📷 Demo Screenshot
+
 ![tkinter_face_recognition_GUI](https://github.com/TeferiMulatu/Face-Detection/blob/master/screenshot.png?raw=true)
-<img src="https://github.com/TeferiMulatu/Face-Detection/blob/master/screenshot.png?raw=true" width="500">
 
-🙌 Acknowledgements
+
+ 🙌 Acknowledgements
+
 - ensorFlow Keras
-
 - OpenCV
-
 - Pillow (PIL)
-
 - [Tkinter (built-in Python GUI)]
 
-🤝 Contributing
+ 🤝 Contributing
 Pull requests are welcome! Please open an issue first to discuss your changes.
 
 
