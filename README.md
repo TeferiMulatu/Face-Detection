@@ -58,26 +58,29 @@ Datasset/
 │   ├── image1.jpg
 │   └── ...
 ▶️ 2. Run the GUI App
+
 python main.py
+
 🖼️ GUI Features
-Button	Function
-Start Camera	Starts webcam feed
-Stop Camera	Stops webcam
-Live Recognition	Enables/disables real-time detection
-Capture & Recognize	Captures current frame and predicts
-Upload Image	Load and recognize a saved image
-Confidence Threshold	Set prediction certainty (slider)
+
+- Button	Function
+- Start Camera	Starts webcam feed
+- Stop Camera	Stops webcam
+- Live Recognition	Enables/disables real-time detection
+- Capture & Recognize	Captures current frame and predicts
+- Upload Image	Load and recognize a saved image
+- Confidence Threshold	Set prediction certainty (slider)
 📷 Demo Screenshot
 ![tkinter_face_recognition_GUI](https://github.com/TeferiMulatu/Face-Detection/blob/master/screenshot.png?raw=true)
 
 🙌 Acknowledgements
-TensorFlow Keras
+- ensorFlow Keras
 
-OpenCV
+- OpenCV
 
-Pillow (PIL)
+- Pillow (PIL)
 
-[Tkinter (built-in Python GUI)]
+- [Tkinter (built-in Python GUI)]
 
 🤝 Contributing
 Pull requests are welcome! Please open an issue first to discuss your changes.
