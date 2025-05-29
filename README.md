@@ -72,6 +72,7 @@ python main.py
 - Confidence Threshold	Set prediction certainty (slider)
 📷 Demo Screenshot
 ![tkinter_face_recognition_GUI](https://github.com/TeferiMulatu/Face-Detection/blob/master/screenshot.png?raw=true)
+<img src="https://github.com/TeferiMulatu/Face-Detection/blob/master/screenshot.png?raw=true" width="500">
 
 🙌 Acknowledgements
 - ensorFlow Keras
