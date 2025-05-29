@@ -68,7 +68,7 @@ Capture & Recognize	Captures current frame and predicts
 Upload Image	Load and recognize a saved image
 Confidence Threshold	Set prediction certainty (slider)
 📷 Demo Screenshot
-![tkinter_face_recognition_GUI](https://github.com/user-attachments/assets/466b133d-d99f-4d80-92f0-aa44c1c1711d)
+![tkinter_face_recognition_GUI](https://github.com/TeferiMulatu/Face-Detection/blob/bbcadcb48cf74f20028f62cb6291dce299face92/screenshot.png)
 
 🙌 Acknowledgements
 TensorFlow Keras
